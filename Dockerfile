@@ -1,4 +1,4 @@
-FROM oraclelinux:7
+FROM oraclelinux:7-slim
 
 ENV JAVA_RPM jdk-linux-x64.rpm
 
